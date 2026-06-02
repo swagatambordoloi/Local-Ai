@@ -1,0 +1,24 @@
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Large Language Model Weights (Crucial)
+*.gguf
+models/
+moondream/
+
+# Local User Data and Application State
+chat_history.json
+
+# IDE Configurations
+.vscode/
+.idea/
+.DS_Store
