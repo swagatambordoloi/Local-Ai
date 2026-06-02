@@ -28,7 +28,8 @@ Ensure you have Python 3.10 or newer installed on your machine.
 ### 2. Clone the Repository
 ```bash
 git clone [https://github.com/swagatambordoloi/Local-Ai.git](https://github.com/swagatambordoloi/Local-Ai.git)
-cd Local-A
+cd Local-Ai
+```
 3. Install Dependencies
 It is highly recommended to use a virtual environment:
 # Create environment
