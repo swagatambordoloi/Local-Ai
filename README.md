@@ -2,6 +2,8 @@
 
 Local AI - Elite Edition is a 100% offline, privacy-first desktop artificial intelligence application built with **Python**, **PySide6 (Qt)**, and **GPT4All**. It brings multi-modal capabilities—including standard chatting, advanced code generation, document-based Retrieval-Augmented Generation (RAG), and image vision—straight to your local machine's CPU. No API keys, no subscriptions, and zero data leaving your device.
 
+![App Screenshot](assets/preview.png)
+
 ## ✨ Key Features
 
 - **Dynamic Dual-Brain Architecture:**
